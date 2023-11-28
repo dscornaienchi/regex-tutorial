@@ -9,9 +9,9 @@ The code included in this repository is used to create a social network API. The
 
 ## Usage
 
-The Github repository can be found here: https://github.com/dscornaienchi/
+The Github repository can be found here: https://github.com/dscornaienchi/social-network
 
-A walkthrough video can be found here: 
+A walkthrough video can be found here:https://drive.google.com/file/d/1-e0NpdF6gsUMCBcLcFf9sNy93JAEVdeJ/view?usp=sharing 
 
 ## Credits
 
